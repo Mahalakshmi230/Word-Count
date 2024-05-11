@@ -18,9 +18,9 @@ Input the values
 ### Step 6: 
 End the program
 ## PROGRAM:
-#program to find the number of words in a text file
-#Developed by : Mahalakshmi R
-Register number : 212223230116
+Program to find number of words in a text file
+#Program developed by: Mahalakshmi R
+#Register number: 212223230116
 num=0
 with open("story.txt","r") as f1:
     for i in f1:
